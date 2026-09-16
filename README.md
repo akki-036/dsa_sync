@@ -32,7 +32,7 @@
 | 🔴 Hard | **0** | 0% |
 | **Total** | **85** | — |
 
-🔥 **Latest Solved:** `Count Primes`
+🔥 **Latest Solved:** `Reverse Integer`
 
 ---
 
